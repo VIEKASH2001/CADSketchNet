@@ -5,9 +5,9 @@ This license is one of the Creative Commons licenses and allows users to share t
 
 This is the repository for the 'CADSketchNet' Dataset, associated with the paper ["CADSketchNet - An Annotated Sketch dataset for 3D CAD Model Retrieval with Deep Neural Networks"](). 
 
-The CADSketchNet dataset 
-				- Dataset-A has 801 hand-drawn sketches of the 3D CAD models across 42 categories of [ESB](https://engineering.purdue.edu/cdesign/wp/downloads/)
-				- Dataset-B has 58,696 computer-generated sketches of the 3D CAD models across 68 categories of [MCB](https://mechanical-components.herokuapp.com/)
+- The CADSketchNet dataset 
+	- Dataset-A has 801 hand-drawn sketches of the 3D CAD models across 42 categories of [ESB](https://engineering.purdue.edu/cdesign/wp/downloads/)
+	- Dataset-B has 58,696 computer-generated sketches of the 3D CAD models across 68 categories of [MCB](https://mechanical-components.herokuapp.com/)
 
 For further details, contact Bharadwaj Manda via [here](https://www.linkedin.com/in/bharadwaj-manda-9730ab114/) or [here](https://bharadwaj-manda.netlify.app/)
 
