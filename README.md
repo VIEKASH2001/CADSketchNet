@@ -3,22 +3,27 @@ This dataset is licensed under CC BY-NC-SA: Creative Commons Attribution-NonComm
 This license is one of the Creative Commons licenses and allows users to share the dataset only if they (1) give credit to the copyright holder, (2) do not use the dataset for any commercial purposes, and (3) distribute any additions, transformations or changes to the dataset under this same license.
 
 
-This is the repository for the 'CADSketchNet' Dataset, associated with the paper ["A Convolutional Neural Network Approach to the Classification of Engineering Models"](https://ieeexplore.ieee.org/document/9343314). For further details, contact Bharadwaj Manda via [here](https://www.linkedin.com/in/bharadwaj-manda-9730ab114/) or [here](https://bharadwaj-manda.netlify.app/)
+This is the repository for the 'CADSketchNet' Dataset, associated with the paper ["CADSketchNet - An Annotated Sketch dataset for 3D CAD Model Retrieval with Deep Neural Networks"](). 
+
+The CADSketchNet dataset 
+				- Dataset-A has 801 hand-drawn sketches of the 3D CAD models across 42 categories of [ESB](https://engineering.purdue.edu/cdesign/wp/downloads/)
+				- Dataset-B has 58,696 computer-generated sketches of the 3D CAD models across 68 categories of [MCB](https://mechanical-components.herokuapp.com/)
+
+For further details, contact Bharadwaj Manda via [here](https://www.linkedin.com/in/bharadwaj-manda-9730ab114/) or [here](https://bharadwaj-manda.netlify.app/)
 
 ### To cite this Dataset or Paper:
 
 - Use the bibtex below:
 
-@ARTICLE{9343314,  author={B. {Manda} and P. {Bhaskare} and R. {Muthuganapathy}},  journal={IEEE Access},   title={A Convolutional Neural Network Approach to the Classification of Engineering Models},   year={2021},  volume={9},  number={},  pages={22711-22723},  doi={10.1109/ACCESS.2021.3055826}}
+*Coming soon*
 
 - Or use the plain text below
 
-B. Manda, P. Bhaskare and R. Muthuganapathy, "A Convolutional Neural Network Approach to the Classification of Engineering Models," in IEEE Access, vol. 9, pp. 22711-22723, 2021, doi: 10.1109/ACCESS.2021.3055826.
+*Coming soon*
 
 <ins>Files in this repository:</ins>
 
-**Data.7z** - The CADNET dataset | 3317 3D CAD Models across 43 categories
+**Dataset_A.7z** - The hand-drawn sketch data of the CADSketchNet-A dataset
+**Dataset_B.7z** - The computer-generated sketch data of the CADSketchNet-B dataset
 
-**CADNET_Details.pdf** - Contains information about the category names and the number of models in each class
-
-*Thanks are due to T Sai Gowtham, CR Gawtam, Jayendran for their contributions to the dataset.*
+*Thanks are due to the many volunteers who have contributed to the dataset.*
