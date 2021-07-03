@@ -4,6 +4,7 @@ layout: default
 
 # News
 > **(2021, July 03)** The paper is accepted for publicaiton in the Special Section on [3DOR2021 - 14th EG 3D Object Retrieval Workshop](https://3dor2021.github.io/index.html) of the [Computers & Graphics](https://www.journals.elsevier.com/computers-and-graphics) Journal. The early access version of the paper will be made available on this page soon.
+
 > **(2021, July 03)** This is the repository for the 'CADSketchNet' Dataset, associated with the paper <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9343314" target="_blank">['CADSketchNet' - An Annotated Sketch dataset for 3D CAD Model Retrieval with Deep Neural Networks</a>. For further details, contact Bharadwaj Manda via [here](https://www.linkedin.com/in/bharadwaj-manda-9730ab114/) or [here](https://bharadwaj-manda.netlify.app/)
 
 ## CADSketchNet Dataset
