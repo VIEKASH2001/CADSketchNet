@@ -14,22 +14,21 @@ layout: default
   <figcaption>Computer Generated Sketches - Dataset_A</figcaption>
 </figure>
 
-\_________________________________________________________
 
 <figure>
   <img src="hand_drawn.png" alt="data" width="500" height="300"/>
   <figcaption>Hand-drawn Sketches - Dataset_B</figcaption>
 </figure>
 
-\_________________________________________________________
 
 We introduce the CADSketchNet dataset, an annotated collection of sketches of 3D CAD models.
-	- Dataset-A has 58,696 computer-generated sketches of the 3D CAD models across 68 categories of [MCB](https://mechanical-components.herokuapp.com/)
-	- Dataset-B has 801 hand-drawn sketches of the 3D CAD models across 42 categories of [ESB](https://engineering.purdue.edu/cdesign/wp/downloads/)
+- Dataset-A has 58,696 computer-generated sketches of the 3D CAD models across 68 categories of [MCB](https://mechanical-components.herokuapp.com/)
+- Dataset-B has 801 hand-drawn sketches of the 3D CAD models across 42 categories of [ESB](https://engineering.purdue.edu/cdesign/wp/downloads/)
 
 ## Download
 
 [Download Dataset-A](https://github.com/bharadwaj-manda/CADSketchNet/blob/main/Dataset_A.7z)
+
 [Download Dataset-B](https://github.com/bharadwaj-manda/CADSketchNet/blob/main/Dataset_B.7z)
 
 ### Authors
