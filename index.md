@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+---
+layout: default
+---
 
-You can use the [editor on GitHub](https://github.com/bharadwaj-manda/CADSketchNet/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# News
+> **(2021, July 03)** The paper is accepted for publicaiton in the Special Section on [3DOR2021 - 14th EG 3D Object Retrieval Workshop](https://3dor2021.github.io/index.html) of the [Computers & Graphics](https://www.journals.elsevier.com/computers-and-graphics) Journal. The early access version of the paper will be made available on this page soon.
+> **(2021, July 03)** This is the repository for the 'CADSketchNet' Dataset, associated with the paper <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9343314" target="_blank">['CADSketchNet' - An Annotated Sketch dataset for 3D CAD Model Retrieval with Deep Neural Networks</a>. For further details, contact Bharadwaj Manda via [here](https://www.linkedin.com/in/bharadwaj-manda-9730ab114/) or [here](https://bharadwaj-manda.netlify.app/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## CADSketchNet Dataset
 
-### Markdown
+<figure>
+  <img src="comp-gen.png" alt="data" width="500" height="300"/>
+  <figcaption>Computer Generated Sketches - Dataset_A</figcaption>
+</figure>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+\_________________________________________________________
 
-```markdown
-Syntax highlighted code block
+<figure>
+  <img src="hand_drawn.png" alt="data" width="500" height="300"/>
+  <figcaption>Hand-drawn Sketches - Dataset_B</figcaption>
+</figure>
 
-# Header 1
-## Header 2
-### Header 3
+\_________________________________________________________
 
-- Bulleted
-- List
+We introduce the CADSketchNet dataset, an annotated collection of sketches of 3D CAD models.
+	- Dataset-A has 58,696 computer-generated sketches of the 3D CAD models across 68 categories of [MCB](https://mechanical-components.herokuapp.com/)
+	- Dataset-B has 801 hand-drawn sketches of the 3D CAD models across 42 categories of [ESB](https://engineering.purdue.edu/cdesign/wp/downloads/)
 
-1. Numbered
-2. List
+## Download
 
-**Bold** and _Italic_ and `Code` text
+[Download Dataset-A](https://github.com/bharadwaj-manda/CADSketchNet/blob/main/Dataset_A.7z)
+[Download Dataset-B](https://github.com/bharadwaj-manda/CADSketchNet/blob/main/Dataset_B.7z)
 
-[Link](url) and ![Image](src)
+### Authors
+
+Manda, Bharadwaj and Dhayarkar, Shubham and Mitheran, Sai and V.K, Viekash. and Muthuganapathy, Ramanathan
+
+### Paper/Citation
+
+*Coming soon*
+
+<!--
+<a href="https://github.com/bharadwaj-manda/CADSketchNet/blob/gh-pages/CADSketchNet_accepted_version.pdf" target="_blank"><img src="paper.png" alt="Paper" class="paper"/></a>
+
+Please cite our paper if you use the CADNET dataset.
+
 ```
+@ARTICLE{CADSketchNet,  author={Manda, Bharadwaj and Dhayarkar, Shubham and Mitheran, Sai and V.K, Viekash. and Muthuganapathy, Ramanathan},  journal={Computers & Graphics}, title={'CADSketchNet' - An Annotated Sketch dataset for 3D CAD Model Retrieval with Deep Neural Networks},   year={2021},  volume={},  number={},  pages={},  doi={}}
+```
+-->
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Acknowledgements
 
-### Jekyll Themes
+We are grateful to the teams of ESB and MCB for making their datasets available. Thanks are also due to the many members who have contributed to the CADSketch dataset.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bharadwaj-manda/CADSketchNet/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### License
 
-### Support or Contact
+This dataset is licensed under CC BY-NC-SA: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International This license is one of the Creative Commons licenses and allows users to share the dataset only if they (1) give credit to the copyright holder, (2) do not use the dataset for any commercial purposes, and (3) distribute any additions, transformations or changes to the dataset under this same license.
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
