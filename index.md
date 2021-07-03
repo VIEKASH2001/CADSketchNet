@@ -35,7 +35,7 @@ For further details, contact Bharadwaj Manda via [here](https://www.linkedin.com
 
 ### Authors
 
-Manda, Bharadwaj and <a href="https://www.linkedin.com/in/shubham-dhayarkar-a16a75153/?originalSubdomain=in">Dhayarkar, Shubham</a> and <a href="https://smj007.github.io/">Mitheran, Sai</a> and <a href="https://vkviekash-homepage.github.io/">V.K, Viekash</a> and <a href="https://ed.iitm.ac.in/~raman/">Muthuganapathy, Ramanathan</a>
+<a href="https://bharadwaj-manda.netlify.app/">Manda, Bharadwaj</a> and <a href="https://www.linkedin.com/in/shubham-dhayarkar-a16a75153/?originalSubdomain=in">Dhayarkar, Shubham</a> and <a href="https://smj007.github.io/">Mitheran, Sai</a> and <a href="https://vkviekash-homepage.github.io/">V.K, Viekash</a> and <a href="https://ed.iitm.ac.in/~raman/">Muthuganapathy, Ramanathan</a>
 
 ### Paper/Citation
 
