@@ -5,7 +5,7 @@ layout: default
 # News
 > **(2021, July 03)** The paper is accepted for publicaiton in the Special Section on [3DOR2021 - 14th EG 3D Object Retrieval Workshop](https://3dor2021.github.io/index.html) of the [Computers & Graphics](https://www.journals.elsevier.com/computers-and-graphics) Journal. The early access version of the paper will be made available on this page soon.
 
-> **(2021, July 03)** This is the repository for the 'CADSketchNet' Dataset, associated with the paper <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9343314" target="_blank">['CADSketchNet' - An Annotated Sketch dataset for 3D CAD Model Retrieval with Deep Neural Networks</a>. For further details, contact Bharadwaj Manda via [here](https://www.linkedin.com/in/bharadwaj-manda-9730ab114/) or [here](https://bharadwaj-manda.netlify.app/)
+> **(2021, July 03)** This is the repository for the 'CADSketchNet' Dataset, associated with the paper <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9343314" target="_blank">'CADSketchNet' - An Annotated Sketch dataset for 3D CAD Model Retrieval with Deep Neural Networks</a>. For further details, contact Bharadwaj Manda via [here](https://www.linkedin.com/in/bharadwaj-manda-9730ab114/) or [here](https://bharadwaj-manda.netlify.app/)
 
 ## CADSketchNet Dataset
 
@@ -35,7 +35,7 @@ For further details, contact Bharadwaj Manda via [here](https://www.linkedin.com
 
 ### Authors
 
-Manda, Bharadwaj and Dhayarkar, Shubham and Mitheran, Sai and V.K, Viekash. and Muthuganapathy, Ramanathan
+Manda, Bharadwaj and <a href="https://www.linkedin.com/in/shubham-dhayarkar-a16a75153/?originalSubdomain=in">Dhayarkar, Shubham</a> and <a href="https://smj007.github.io/">Mitheran, Sai</a> and <a href="https://vkviekash-homepage.github.io/">V.K, Viekash</a> and <a href="https://ed.iitm.ac.in/~raman/">Muthuganapathy, Ramanathan</a>
 
 ### Paper/Citation
 
