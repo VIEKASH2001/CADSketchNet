@@ -11,7 +11,7 @@
 <span> <a href="https://smj007.github.io/">Sai Mitheran</a></span> ,
 <span> <a href="https://vkviekash-homepage.github.io/">Viekash V K</a></span>,
 <span> <a href="https://ed.iitm.ac.in/~raman/">Ramanathan Muthuganapathy</a></span>
-
+ 
 	
 </div>
 
@@ -21,7 +21,7 @@ This dataset is licensed under CC BY-NC-SA: Creative Commons Attribution-NonComm
 This license is one of the Creative Commons licenses and allows users to share the dataset only if they (1) give credit to the copyright holder, (2) do not use the dataset for any commercial purposes, and (3) distribute any additions, transformations or changes to the dataset under this same license.
 
 
-This is the repository for the 'CADSketchNet' Dataset, associated with the paper ["CADSketchNet - An Annotated Sketch dataset for 3D CAD Model Retrieval with Deep Neural Networks"](). 
+This is the repository for the 'CADSketchNet' Dataset, associated with the paper ["CADSketchNet - An Annotated Sketch dataset for 3D CAD Model Retrieval with Deep Neural Networks"](https://www.sciencedirect.com/science/article/abs/pii/S0097849321001333). 
 
 - The CADSketchNet dataset 
 	- Dataset-A has 58,696 computer-generated sketches of the 3D CAD models across 68 categories of [MCB](https://mechanical-components.herokuapp.com/)
