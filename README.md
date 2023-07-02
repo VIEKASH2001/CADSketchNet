@@ -48,4 +48,4 @@ For further details, contact Bharadwaj Manda via [here](https://www.linkedin.com
 
 **Dataset_B.7z** - The hand-drawn sketch data of the CADSketchNet-B dataset
 
-*Thanks are due to the many volunteers who have contributed to the dataset.*
+*Thanks are due to the many volunteers who have contributed to the dataset*
